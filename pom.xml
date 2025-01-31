@@ -6,12 +6,12 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.4.2</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/>
 	</parent>
 	<groupId>com.pedro.guerra.newswhip</groupId>
-	<artifactId>rest-api</artifactId>
+	<artifactId>article-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rest-api</name>
+	<name>article-rest-api</name>
 	<description>Rest API Project NewsWhip</description>
 	<url/>
 	<licenses>
